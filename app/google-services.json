@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "864416586770",
+    "project_id": "fitapp-365203",
+    "storage_bucket": "fitapp-365203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864416586770:android:3d926079c4c165f4becccb",
+        "android_client_info": {
+          "package_name": "com.health.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864416586770-gf53l86i1347vf7kubk7uliik4pdbifb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.health.health",
+            "certificate_hash": "16c2c458678255a5cf085a6e1d9acba8827fbfd5"
+          }
+        },
+        {
+          "client_id": "864416586770-17pnsm77dh5too9ficqebseocskj9o76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtKgqdI0-uP9xsBVQRfEsSdlK5w6BwcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864416586770-17pnsm77dh5too9ficqebseocskj9o76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical">
+
+
+    <ImageView
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_width="@dimen/_70sdp"
+        android:layout_height="@dimen/_70sdp"
+        android:scaleType="centerInside"
+        android:layout_gravity="center"
+        android:src="@drawable/info"
+        />
+<!--    <ImageView-->
+<!--        android:layout_width="@dimen/_200sdp"-->
+<!--        android:layout_height="@dimen/_200sdp"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:src="@drawable/succe"-->
+<!--        />-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Please Install Google Fit App \nTo Process further"
+        android:layout_marginLeft="@dimen/_15sdp"
+        android:layout_marginRight="@dimen/_15sdp"
+        android:id="@+id/sutext"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:fontFamily="@font/work_sans_semibold"
+        android:textSize="@dimen/_15sdp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        />
+
+    <Button
+        android:id="@+id/subutton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:backgroundTint="#F10707"
+        android:layout_margin="@dimen/_10sdp"
+        />
+</LinearLayout>

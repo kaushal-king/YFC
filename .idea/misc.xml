@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/client work/piyushbhai/app/src/main/res/drawable/circle_shape.xml" value="0.1125" />
+        <entry key="..\:/client work/piyushbhai/app/src/main/res/drawable/circular_progress_bar.xml" value="0.1125" />
+        <entry key="..\:/client work/piyushbhai/app/src/main/res/drawable/fade_blue.xml" value="0.1125" />
+        <entry key="..\:/client work/piyushbhai/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
+        <entry key="..\:/client work/piyushbhai/app/src/main/res/layout/activity_jym_details.xml" value="0.176" />
+        <entry key="..\:/client work/piyushbhai/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/client work/piyushbhai/app/src/main/res/layout/activity_splash.xml" value="0.152" />
+        <entry key="..\:/client work/piyushbhai/app/src/main/res/layout/layout_jym_card.xml" value="0.2958677685950413" />
+        <entry key="..\:/client work/piyushbhai/app/src/main/res/layout/netco.xml" value="0.1" />
+        <entry key="..\:/client work/piyushbhai/app/src/main/res/layout/slider_layout.xml" value="0.1734375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
